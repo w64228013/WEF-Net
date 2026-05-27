@@ -1,4 +1,4 @@
 WMH-guided Evidential Fusion Network
 
 
-The main function is in the main_zcy_text.py
+The main function is in the main_zcy_text.py, the model information is in the model_zcy_v4.py, and the dataloader function is in the data.py.
